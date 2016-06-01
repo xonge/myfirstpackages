@@ -1,0 +1,15 @@
+{
+    "name": "xonge/fenxiao",
+    "authors": [
+        {
+            "name": "xonge",
+            "email": "xonge007x@sina.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Xonge\\Fenxiao\\": "src/"
+        }
+    }
+}
